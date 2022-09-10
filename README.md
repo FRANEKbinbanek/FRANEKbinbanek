@@ -1,4 +1,4 @@
-### HELLO EVERYONE I'M FRANEKbinbanek 👋
+### HELLO EVERYONE👋
 
 <!--### I like programing.
 

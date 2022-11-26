@@ -1,4 +1,7 @@
-### HELLO EVERYONE👋.  2137
+### Hi, I am Franek
+I like programing
+And
+Making Games
 
 <!--### I like programing.
 

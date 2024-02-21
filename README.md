@@ -1,16 +1,4 @@
-### Hi, I am Franek
-I like programing
-And
-Making Games
-
-<!--### I like programing.
-
-### I'm learning: JavaScript, C#, --!>
-
-
-
-
-
+Dzień Dobry
 
 
 
